@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Slides from the awesome workshop"
 format: revealjs
 ---
 
